@@ -71,3 +71,4 @@ const ScrollIndicator = () => {
     </motion.div>
   );
 };
+export default ScrollIndicator;
