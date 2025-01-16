@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { ArrowDownCircle } from "lucide-react";
 import FloatingElement from "./FloatingElement";
 import ScrollIndicator from "./ScrollIndicator";
 import { personalInfo } from "../constants";
